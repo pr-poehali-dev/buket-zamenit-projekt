@@ -8,7 +8,7 @@ const blogPosts = [
     id: 1,
     title: "Секреты идеального букета",
     description: "Как выбрать и составить букет кустовых роз, который покорит сердце",
-    image: "https://cdn.poehali.dev/projects/e32337f4-d627-4d34-b5a5-740a8c07fcb2/files/0bf9e31f-b2ff-44f4-ae83-85cd2b34d881.jpg",
+    image: "https://cdn.poehali.dev/files/a92a29ab-a183-454c-90f7-23ccbbf4bcd7.jpeg",
     category: "Флористика",
     date: "15 октября 2024",
     readTime: "5 мин"
@@ -53,7 +53,7 @@ const blogPosts = [
     id: 6,
     title: "Цветочная композиция своими руками",
     description: "Пошаговое руководство по созданию профессионального букета дома",
-    image: "https://cdn.poehali.dev/projects/e32337f4-d627-4d34-b5a5-740a8c07fcb2/files/0bf9e31f-b2ff-44f4-ae83-85cd2b34d881.jpg",
+    image: "https://cdn.poehali.dev/files/a92a29ab-a183-454c-90f7-23ccbbf4bcd7.jpeg",
     category: "Флористика",
     date: "3 октября 2024",
     readTime: "10 мин"
